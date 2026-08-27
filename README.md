@@ -31,7 +31,7 @@ Instead of a family waiting for clarity, a wrong or late referral, and a patient
 
 This repo contains a **working front-end prototype** of the core innovation loop described above — built to demonstrate the idea live at the hackathon, end to end, in the browser.
 
-**Try it live:** `[add your hosted link here]`
+**Try it live:** `astounding-faloodeh-55209a.netlify.app`
 
 ### What is actually functional right now
 
